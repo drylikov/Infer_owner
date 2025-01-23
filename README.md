@@ -1,6 +1,6 @@
 # Infer owner
 
-Infer the owner of a path based on the owner of its nearest existing parent
+Infer the owner of a path based on the owner of its nearest existing parent.
 
 ## USAGE
 
